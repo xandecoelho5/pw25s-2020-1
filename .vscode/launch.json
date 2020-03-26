@@ -1,0 +1,20 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - DemoApplication",
+      "request": "launch",
+      "mainClass": "br.edu.utfpr.pb.livraria.DemoApplication"
+    },
+    {
+      "type": "java",
+      "name": "Spring Boot-Aula3Application<aula3>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "mainClass": "br.edu.utfpr.pb.aula3.Aula3Application",
+      "projectName": "aula3",
+      "args": ""
+    }
+  ]
+}
